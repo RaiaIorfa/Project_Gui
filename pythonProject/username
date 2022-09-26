@@ -1,0 +1,9 @@
+import tkinter as tk
+from tkinter import ttk
+
+root = tk.TK()
+root.geometry("240x100")
+root.title('login')
+root.resizable(0,0)
+
+
